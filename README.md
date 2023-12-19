@@ -1,4 +1,4 @@
 # Little Lemin
 ## Simple Restaurant Website
 
-![My Image](./site.png)
+![My Image](source/site.png)
